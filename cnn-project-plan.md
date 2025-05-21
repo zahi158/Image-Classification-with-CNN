@@ -2,7 +2,7 @@
 
 ## Shared Foundation (All Members)
 - **Data Exploration & Preprocessing**: Create unified, reusable preprocessing pipeline
-  - [ ] Load and explore dataset together
+  - [x] Load and explore dataset together
   - [ ] Train initial model together (for familiarity)
   - [ ] Evaluate the model
   - [ ] Design standardized data transformations (normalization, resizing)
